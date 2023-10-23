@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 🌞 Study in USTC
 - 🔐 Interested in Applied Cryptography, Network Security.
-- ⚡ I’m currently learning knowledge PSI.
+- ⚡ I’m currently learning knowledge about PSI.
